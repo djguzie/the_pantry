@@ -1,5 +1,5 @@
 # the_pantry
-# the_pantry
-# the_pantry
-# the_pantry
-GitHub Checkpoint Assignment
+
+## GitHub Checkpoint Assignment
+
+All about being able to properly use git to push, clone and edit repositories and local versions
